@@ -1,0 +1,39 @@
+.gradle
+/local.properties
+/.idea/
+/captures
+.externalNativeBuild
+.cxx
+
+# Directorios y archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración personal
+*.iml
+*.iws
+.idea/
+.gradle/
+local.properties
+
+# Archivos de compilación
+/build
+/app/build
+/app/release
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Archivos de Android Studio
+.vscode/
+*.log
+crashlytics.properties
+fabric.properties
+
+#values with sensitive info
+values.xml
+google-services.json
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
